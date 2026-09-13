@@ -1,0 +1,4 @@
+# Preserve third-party license texts verbatim, including upstream line endings.
+LICENSES/* -text -whitespace
+LICENSE.md -text -whitespace
+*.ttf binary

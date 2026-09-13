@@ -1,0 +1,27 @@
+[
+  {
+    "family": "atkinsonhyperlegible",
+    "source": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/atkinsonhyperlegible/AtkinsonHyperlegible-Bold.ttf",
+    "license": "LICENSES/atkinsonhyperlegible-OFL.txt"
+  },
+  {
+    "family": "notosans",
+    "source": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notosans/NotoSans%5Bwdth%2Cwght%5D.ttf",
+    "license": "LICENSES/notosans-OFL.txt"
+  },
+  {
+    "family": "notoserif",
+    "source": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/notoserif/NotoSerif%5Bwdth%2Cwght%5D.ttf",
+    "license": "LICENSES/notoserif-OFL.txt"
+  },
+  {
+    "family": "ibmplexmono",
+    "source": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/ibmplexmono/IBMPlexMono-SemiBold.ttf",
+    "license": "LICENSES/ibmplexmono-OFL.txt"
+  },
+  {
+    "family": "montserrat",
+    "source": "https://raw.githubusercontent.com/google/fonts/809e4d8b8d7e9364a914909bb777679606c178b8/ofl/montserrat/Montserrat%5Bwght%5D.ttf",
+    "license": "LICENSES/montserrat-OFL.txt"
+  }
+]
